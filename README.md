@@ -63,7 +63,7 @@ https://pixel-perfect-echo-597.lovable.app/
 
 ### 1. Análise de despesas por categoria
 
-![Despesas por categoria](despesas.png)
+![Despesas](despesas.png)
 
 ### 2. Identificação dos padrões de gastos
 
@@ -71,7 +71,7 @@ https://pixel-perfect-echo-597.lovable.app/
 
 ### 3. Consulta de saldo das contas
 
-![Saldo das contas](saldo-contas.png)
+![Saldo](saldo-contas.png)
 
 ## 👩‍💻 Desenvolvimento
 
