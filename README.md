@@ -2,65 +2,60 @@
 
 ## 📌 Sobre o Projeto
 
-Este projeto foi desenvolvido como parte do desafio da DIO, com o objetivo de criar um assistente financeiro conversacional capaz de responder perguntas sobre contas bancárias, saldos, cartões, transações e padrões de consumo.
+Projeto desenvolvido para o desafio da DIO, com o objetivo de criar um assistente financeiro conversacional capaz de responder perguntas sobre contas bancárias, saldos, cartões, transações e padrões de consumo.
 
-O aplicativo utiliza inteligência artificial para apresentar informações financeiras em linguagem simples e acessível.
+O aplicativo apresenta informações financeiras em linguagem simples e acessível, utilizando dados fictícios para demonstração.
 
 ## 🎯 Objetivo
 
-Levar informações bancárias até o cliente por meio de uma interface de chat, facilitando a consulta e a compreensão de suas movimentações financeiras.
+Levar informações financeiras ao cliente por meio de uma interface de chat, facilitando a consulta e a compreensão de suas movimentações.
 
 ## 🚀 Funcionalidades
 
 - Consulta de saldos de contas.
-- Consulta de cartões e dívidas.
+- Consulta de despesas por categoria.
 - Histórico de transações.
-- Análise de despesas por categoria.
 - Identificação de padrões de consumo.
+- Análise de gastos.
 - Respostas em português.
-- Visualização de informações financeiras em tabelas e gráficos.
+- Apresentação de informações em tabelas.
 
 ## 🛠️ Tecnologias utilizadas
 
-- Lovable: criação da interface web.
-- GitHub: armazenamento e documentação do projeto.
-- ChatGPT: apoio no desenvolvimento e documentação.
-- Pluggy: documentação da integração MCP.
-- Plaid: ambiente Sandbox para dados financeiros fictícios.
+- **Lovable:** criação e publicação da interface web.
+- **GitHub:** armazenamento do código e documentação.
+- **ChatGPT:** apoio no planejamento e desenvolvimento.
+- **Pluggy:** documentação da integração MCP.
+- **Plaid:** plataforma prevista para integração com dados fictícios no Sandbox.
 
 ## 🔌 Integrações MCP
 
 ### Pluggy
 
-A Pluggy será utilizada como referência para a integração MCP e documentação de Open Finance.
+Integração planejada com o servidor MCP da Pluggy, plataforma de Open Finance.
 
-Servidor MCP:
-https://mcp.pluggy.ai/mcp
-
-Documentação:
-https://docs.pluggy.ai/
+- Servidor: https://mcp.pluggy.ai/mcp
+- Documentação: https://docs.pluggy.ai/
 
 ### Plaid
 
-A Plaid será utilizada no ambiente Sandbox para simular dados bancários, contas, saldos e transações.
+Integração planejada com o ambiente Sandbox da Plaid para testes com contas, saldos e transações fictícias.
 
-Painel:
-https://dashboard.plaid.com/
+- Painel: https://dashboard.plaid.com/
+- Documentação: https://plaid.com/docs/
 
-Os dados de demonstração não representam contas bancárias reais.
+**Status:** as integrações externas ainda não estão conectadas nesta versão demonstrativa.
 
 ## 🔒 Segurança
 
-- Não utilizar dados bancários pessoais.
-- Não publicar chaves ou tokens.
-- Utilizar credenciais Sandbox para testes.
-- Manter segredos fora do código frontend e do GitHub.
+- Utilização de dados fictícios.
+- Não utilização de dados bancários pessoais.
+- Não publicar chaves, tokens ou senhas.
+- Credenciais de integração devem permanecer protegidas no servidor.
 
 ## 🌐 Aplicativo publicado
 
-O Assistente Financeiro Inteligente está disponível online.
-
-🔗 **Acesse o aplicativo:**
+Acesse o Assistente Financeiro Inteligente:
 
 https://pixel-perfect-echo-597.lovable.app/
 
@@ -68,18 +63,18 @@ https://pixel-perfect-echo-597.lovable.app/
 
 ### 1. Análise de despesas por categoria
 
-![Despesas por categoria](evidencias/despesas.png)
+![Despesas por categoria](despesas.png)
 
 ### 2. Identificação dos padrões de gastos
 
-![Padrões de gastos](evidencias/padroes-gastos.png)
+![Padrões de gastos](padroes-gastos.png)
 
 ### 3. Consulta de saldo das contas
 
-![Saldo das contas](evidencias/saldo-contas.png)
+![Saldo das contas](saldo-contas.png)
 
 ## 👩‍💻 Desenvolvimento
 
 Projeto desenvolvido para fins educacionais e de portfólio no desafio da DIO.
 
-Os dados apresentados na versão demonstrativa são fictícios.
+Os dados apresentados na versão demonstrativa são fictícios e não representam contas bancárias reais.
