@@ -58,7 +58,11 @@ Os dados de demonstração não representam contas bancárias reais.
 
 ## 🌐 Aplicativo publicado
 
-**Link:** [INSERIR AQUI O LINK DO LOVABLE]
+O Assistente Financeiro Inteligente está disponível online.
+
+🔗 **Acesse o aplicativo:**
+
+https://pixel-perfect-echo-597.lovable.app/
 
 ## 📷 Evidências do projeto
 
