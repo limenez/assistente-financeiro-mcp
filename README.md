@@ -64,9 +64,19 @@ O Assistente Financeiro Inteligente está disponível online.
 
 https://pixel-perfect-echo-597.lovable.app/
 
-## 📷 Evidências do projeto
+## 📸 Evidências do Projeto
 
-Serão adicionadas capturas de tela do aplicativo, das consultas financeiras e das funcionalidades do assistente.
+### 1. Análise de despesas por categoria
+
+![Despesas por categoria](evidencias/despesas.png)
+
+### 2. Identificação dos padrões de gastos
+
+![Padrões de gastos](evidencias/padroes-gastos.png)
+
+### 3. Consulta de saldo das contas
+
+![Saldo das contas](evidencias/saldo-contas.png)
 
 ## 👩‍💻 Desenvolvimento
 
